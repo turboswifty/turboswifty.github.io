@@ -8,8 +8,11 @@ layout: page
 
 Here is **Ji Hao (Huxley, 嵇昊)**.<br>
 
+# I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+
 I am a junior undergraduate student in the School of Artificial at the XIDIAN University, advised by [Prof. Changzhe Jiao](https://scholar.google.com/citations?user=eul8WdwAAAAJ&hl=en&oi=ao). I am now being interested in Multimodal Remote Sensing Classification, which is quite meaningful and interesting in real-life as well as scitifically. I'm intrigued in the fusion of Hyperspectral, LiDAR and SAR data for fine-grained land cover mapping. I aim to develop novel algrothims that leverage spectral-spatial-temporal features to address challenges like class imbalance and edge ambiguity in remote sensing scenes.<br>
 
+# If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me via **[WeChat]**({{ "/images/wechat.JPG" | relative_url }}).<br>
 
