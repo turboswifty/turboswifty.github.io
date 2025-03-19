@@ -14,6 +14,10 @@ title: Blogs
 
 ## Chinese Blogs 中文博客
 
+### 2025
+
+- [Am3Net论文(HSI_classification)的阅读blog](https://turboswifty.github.io/file/人工智能创新实践.pdf)
+
 ### 2024
 
 - [22岁，站在人生的交叉路口](https://turboswifty.github.io/blogs/22yrs)
