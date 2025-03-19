@@ -4,6 +4,14 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
+## Personal Q&A
+
+### 2025
+
+-[对于Kappa的疑问和思考](https://turboswifty.github.io/blogs/kappa的可解释性/)
+
+
+
 ## Chinese Blogs 中文博客
 
 ### 2024
