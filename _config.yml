@@ -53,7 +53,9 @@ links:
 timezone: China/Beijing
 future: true
 highlighter: rouge
-# markdown: kramdown
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
 # markdown: redcarpet
 # pygments: true
 
