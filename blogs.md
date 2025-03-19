@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2025
 
--[对于Kappa的疑问和思考](https://turboswifty.github.io/blogs/kappa的可解释性/)
+- [对于Kappa的疑问和思考](https://turboswifty.github.io/blogs/kappa的可解释性/)
 
 
 

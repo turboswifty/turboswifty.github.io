@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /blogs/kappa的可解释性/index.html
+title: 关于Kappa的一些想法
+---
+
+
 # kappa的可解释性
 
 
