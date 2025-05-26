@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://turboswifty.github.io/jihao.png" class="floatpic">
+<img src="https://turboswifty.github.io/myself4.png" class="floatpic">
 
 Here is **Ji Hao (Huxley, 嵇昊)**.<br>
 <br>
