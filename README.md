@@ -1,8 +1,8 @@
-# GuangLun2000.github.io
+# Turboswifty.github.io
 
-GuangLun (光轮) means Nimbus in Chinese ✨
+Hao(昊) means wide sky to explore in Chinese ✨
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is the repository for my personal website.
+Here is **Hao Ji (Huxley, 嵇昊)**. This is the repository for my personal website.
 
 ## Update and News
 
